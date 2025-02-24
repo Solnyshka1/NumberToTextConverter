@@ -1,7 +1,7 @@
 _![image](https://github.com/user-attachments/assets/1d05c45f-9f3b-4d67-85c8-38c89d2633dc)
 **Number to Text Converter in Kyrgyz**
 
-_Project Overview
+Project Overview
 This Java program converts numbers (0-99,999) into words in the Kyrgyz language. The user enters a number, and the program prints its written form.
 
 Design Choices
